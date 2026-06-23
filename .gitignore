@@ -1,0 +1,19 @@
+# Stata and project artifacts
+*.dta
+*.log
+*.smcl
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.png
+*.rtf
+
+# macOS files
+.DS_Store
+._*
+
+# Temporary files
+*.tmp
+*.bak
+~*
